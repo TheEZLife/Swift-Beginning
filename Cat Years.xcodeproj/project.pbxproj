@@ -13,6 +13,7 @@
 		2743FA8C1CB4499400B605AE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2743FA8B1CB4499400B605AE /* Images.xcassets */; };
 		2743FA8F1CB4499400B605AE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2743FA8D1CB4499400B605AE /* LaunchScreen.xib */; };
 		2743FA9B1CB4499400B605AE /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2743FA9A1CB4499400B605AE /* Cat_YearsTests.swift */; };
+		2743FAA51CB44AEA00B605AE /* cat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2743FAA41CB44AEA00B605AE /* cat.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		2743FA941CB4499400B605AE /* Cat YearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2743FA991CB4499400B605AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2743FA9A1CB4499400B605AE /* Cat_YearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsTests.swift; sourceTree = "<group>"; };
+		2743FAA41CB44AEA00B605AE /* cat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				2743FA861CB4499400B605AE /* ViewController.swift */,
 				2743FA881CB4499400B605AE /* Main.storyboard */,
 				2743FA8B1CB4499400B605AE /* Images.xcassets */,
+				2743FAA41CB44AEA00B605AE /* cat.jpeg */,
 				2743FA8D1CB4499400B605AE /* LaunchScreen.xib */,
 				2743FA821CB4499400B605AE /* Supporting Files */,
 			);
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2743FAA51CB44AEA00B605AE /* cat.jpeg in Resources */,
 				2743FA8A1CB4499400B605AE /* Main.storyboard in Resources */,
 				2743FA8F1CB4499400B605AE /* LaunchScreen.xib in Resources */,
 				2743FA8C1CB4499400B605AE /* Images.xcassets in Resources */,
